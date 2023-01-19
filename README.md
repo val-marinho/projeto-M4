@@ -10,35 +10,35 @@ Sim, foi criado as entidades "professor" e "turma_aluno". <br>
 ⇨ Quais são os principais campos e tipos? <br>
 Os principais campos são:
 
--> aluno
-. id
-. matricula
-. nome
-. idade
-. cpf
+-> aluno <br>
+. id <br>
+. matricula <br>
+. nome <br>
+. idade <br>
+. cpf <br>
 
--> turma
-.  id
-. sala
-. turno
-. id professor
-. id curso
+-> turma <br>
+.  id <br>
+. sala <br>
+. turno <br>
+. id professor <br>
+. id curso <br>
 
--> turma_aluno
-. id
-. id aluno
-. id turma
+-> turma_aluno <br>
+. id <br>
+. id aluno <br>
+. id turma <br>
 
--> professor
-. id
-. salario
-. nome
-. idade
-. cpf
+-> professor <br> 
+. id <br>
+. salario <br>
+. nome <br>
+. idade <br>
+. cpf <br>
 
--> curso
-. id 
-. carga_horaria
+-> curso <br>
+. id <br>
+. carga_horaria <br>
 . disciplinas <br>
 
 ⇨ Como essas entidades estão relacionadas? <br>
