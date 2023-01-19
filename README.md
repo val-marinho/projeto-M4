@@ -45,6 +45,8 @@ Os principais campos são:
 ALUNO se relaciona com TURMA através da entidade TURMA_ALUNO, a TURMA se relaciona com PROFESSOR e CURSO.
 
 
+ <img align="center" alt="HTML" height="330" width="480" src="https://github.com/val-marinho/projeto-M4/blob/main/img/diagrama.jpg?raw=true">
+
 
 
 
